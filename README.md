@@ -1,8 +1,10 @@
-# Nguyen Cousins
+# Nguyen Cousins Challenge
 
 A simple challenge to test the cousins who think they can sling code.
 
-## Contributing
+## Rules
+
+The first one to send me the results of this challenge will receive $20 via your Zelle account.
 
 ### Links
 - [Visual Studio Code](https://code.visualstudio.com/)
